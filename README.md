@@ -60,6 +60,11 @@ I'm Bareket.I'm all about creating cool apps and websites 📱🌐 while diving 
   </a> 
  </p>
 </div>
+ :fire: My Stats :
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bareket123&theme=dark&background=000000"/>
+</p>
+
 
 
   
