@@ -60,10 +60,21 @@ I'm Bareket.I'm all about creating cool apps and websites 📱🌐 while diving 
   </a> 
  </p>
 </div>
- :fire: My Stats :
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bareket123&theme=dark&background=000000"/>
-</p>
+ <h3>:fire: My Stats :</h3>
+<div align="left">
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bareket123&show_icons=true&locale=en&layout=compact" alt="bareket123" /></p>
+</div>
+<div align="left">
+  <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bareket123&show_icons=true&locale=en" alt="bareket123" /></p>
+</div>
+<div>
+  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bareket123&" alt="bareket123" /></p>
+</div>
+
+
+
+
+
 
 
 
