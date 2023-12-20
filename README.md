@@ -4,8 +4,8 @@ I'm Bareket.I'm all about creating cool apps and websites 📱🌐 while diving 
   <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" width="350" height="250"/>
 </div>
 
-- 👩🏻‍💻 I’m currently working on [Musense](https://github.com/bareket123/final-Project)
-- 📔 I’m currently learning C#
+- 👩🏻‍💻 I’m currently working on exciting new projects ✨
+- 📔 I’m currently learning Python
 - 📫 How to reach me:
   <div id="badges">
   <a href="https://www.linkedin.com/in/bareket-atia-796245235/">
